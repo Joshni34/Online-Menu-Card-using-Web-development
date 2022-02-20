@@ -613,7 +613,7 @@
     hash-sum "^1.0.2"
     lru-cache "^4.1.2"
     merge-source-map "^1.1.0"
-    postcss "^7.0.14"
+    postcss "^8.2.13"
     postcss-selector-parser "^5.0.0"
     prettier "1.16.3"
     source-map "~0.6.1"
@@ -945,7 +945,7 @@ autoprefixer@^9.4.2:
     chalk "^2.4.2"
     normalize-range "^0.1.2"
     num2fraction "^1.2.2"
-    postcss "^7.0.16"
+    postcss "^8.2.13"
     postcss-value-parser "^3.3.1"
 
 axios@^0.21:
@@ -1617,7 +1617,7 @@ css-declaration-sorter@^4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/css-declaration-sorter/-/css-declaration-sorter-4.0.1.tgz#c198940f63a76d7e36c1e71018b001721054cb22"
   dependencies:
-    postcss "^7.0.1"
+    postcss "^8.2.13"
     timsort "^0.3.0"
 
 css-loader@^1.0.1:
@@ -1629,7 +1629,7 @@ css-loader@^1.0.1:
     icss-utils "^2.1.0"
     loader-utils "^1.0.2"
     lodash "^4.17.11"
-    postcss "^6.0.23"
+    postcss "^8.2.13"
     postcss-modules-extract-imports "^1.2.0"
     postcss-modules-local-by-default "^1.2.0"
     postcss-modules-scope "^1.1.0"
@@ -1707,7 +1707,7 @@ cssnano-preset-default@^4.0.7:
   dependencies:
     css-declaration-sorter "^4.0.1"
     cssnano-util-raw-cache "^4.0.1"
-    postcss "^7.0.0"
+    postcss "^8.2.13"
     postcss-calc "^7.0.1"
     postcss-colormin "^4.0.3"
     postcss-convert-values "^4.0.1"
@@ -1748,7 +1748,7 @@ cssnano-util-raw-cache@^4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/cssnano-util-raw-cache/-/cssnano-util-raw-cache-4.0.1.tgz#b26d5fd5f72a11dfe7a7846fb4c67260f96bf282"
   dependencies:
-    postcss "^7.0.0"
+    postcss "^8.2.13"
 
 cssnano-util-same-parent@^4.0.0:
   version "4.0.1"
@@ -1761,7 +1761,7 @@ cssnano@^4.1.0:
     cosmiconfig "^5.0.0"
     cssnano-preset-default "^4.0.7"
     is-resolvable "^1.0.0"
-    postcss "^7.0.0"
+    postcss "^8.2.13"
 
 csso@^3.5.1:
   version "3.5.1"
@@ -2720,7 +2720,7 @@ icss-utils@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/icss-utils/-/icss-utils-2.1.0.tgz#83f0a0ec378bf3246178b6c2ad9136f135b1c962"
   dependencies:
-    postcss "^6.0.1"
+    postcss "^8.2.13"
 
 ieee754@^1.1.4:
   version "1.1.13"
@@ -4048,7 +4048,7 @@ postcss-calc@^7.0.1:
   resolved "https://registry.yarnpkg.com/postcss-calc/-/postcss-calc-7.0.1.tgz#36d77bab023b0ecbb9789d84dcb23c4941145436"
   dependencies:
     css-unit-converter "^1.1.1"
-    postcss "^7.0.5"
+    postcss "^8.2.13"
     postcss-selector-parser "^5.0.0-rc.4"
     postcss-value-parser "^3.3.1"
 
@@ -4059,39 +4059,39 @@ postcss-colormin@^4.0.3:
     browserslist "^4.0.0"
     color "^3.0.0"
     has "^1.0.0"
-    postcss "^7.0.0"
+    postcss "^8.2.13"
     postcss-value-parser "^3.0.0"
 
 postcss-convert-values@^4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/postcss-convert-values/-/postcss-convert-values-4.0.1.tgz#ca3813ed4da0f812f9d43703584e449ebe189a7f"
   dependencies:
-    postcss "^7.0.0"
+    postcss "^8.2.13"
     postcss-value-parser "^3.0.0"
 
 postcss-discard-comments@^4.0.2:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/postcss-discard-comments/-/postcss-discard-comments-4.0.2.tgz#1fbabd2c246bff6aaad7997b2b0918f4d7af4033"
   dependencies:
-    postcss "^7.0.0"
+    postcss "^8.2.13"
 
 postcss-discard-duplicates@^4.0.2:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/postcss-discard-duplicates/-/postcss-discard-duplicates-4.0.2.tgz#3fe133cd3c82282e550fc9b239176a9207b784eb"
   dependencies:
-    postcss "^7.0.0"
+    postcss "^8.2.13"
 
 postcss-discard-empty@^4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/postcss-discard-empty/-/postcss-discard-empty-4.0.1.tgz#c8c951e9f73ed9428019458444a02ad90bb9f765"
   dependencies:
-    postcss "^7.0.0"
+    postcss "^8.2.13"
 
 postcss-discard-overridden@^4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/postcss-discard-overridden/-/postcss-discard-overridden-4.0.1.tgz#652aef8a96726f029f5e3e00146ee7a4e755ff57"
   dependencies:
-    postcss "^7.0.0"
+    postcss "^8.2.13"
 
 postcss-load-config@^2.0.0:
   version "2.1.0"
@@ -4105,7 +4105,7 @@ postcss-loader@^3.0.0:
   resolved "https://registry.yarnpkg.com/postcss-loader/-/postcss-loader-3.0.0.tgz#6b97943e47c72d845fa9e03f273773d4e8dd6c2d"
   dependencies:
     loader-utils "^1.1.0"
-    postcss "^7.0.0"
+    postcss "^8.2.13"
     postcss-load-config "^2.0.0"
     schema-utils "^1.0.0"
 
@@ -4114,7 +4114,7 @@ postcss-merge-longhand@^4.0.11:
   resolved "https://registry.yarnpkg.com/postcss-merge-longhand/-/postcss-merge-longhand-4.0.11.tgz#62f49a13e4a0ee04e7b98f42bb16062ca2549e24"
   dependencies:
     css-color-names "0.0.4"
-    postcss "^7.0.0"
+    postcss "^8.2.13"
     postcss-value-parser "^3.0.0"
     stylehacks "^4.0.0"
 
@@ -4125,7 +4125,7 @@ postcss-merge-rules@^4.0.3:
     browserslist "^4.0.0"
     caniuse-api "^3.0.0"
     cssnano-util-same-parent "^4.0.0"
-    postcss "^7.0.0"
+    postcss "^8.2.13"
     postcss-selector-parser "^3.0.0"
     vendors "^1.0.0"
 
@@ -4133,7 +4133,7 @@ postcss-minify-font-values@^4.0.2:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/postcss-minify-font-values/-/postcss-minify-font-values-4.0.2.tgz#cd4c344cce474343fac5d82206ab2cbcb8afd5a6"
   dependencies:
-    postcss "^7.0.0"
+    postcss "^8.2.13"
     postcss-value-parser "^3.0.0"
 
 postcss-minify-gradients@^4.0.2:
@@ -4142,7 +4142,7 @@ postcss-minify-gradients@^4.0.2:
   dependencies:
     cssnano-util-get-arguments "^4.0.0"
     is-color-stop "^1.0.0"
-    postcss "^7.0.0"
+    postcss "^8.2.13"
     postcss-value-parser "^3.0.0"
 
 postcss-minify-params@^4.0.2:
@@ -4152,7 +4152,7 @@ postcss-minify-params@^4.0.2:
     alphanum-sort "^1.0.0"
     browserslist "^4.0.0"
     cssnano-util-get-arguments "^4.0.0"
-    postcss "^7.0.0"
+    postcss "^8.2.13"
     postcss-value-parser "^3.0.0"
     uniqs "^2.0.0"
 
@@ -4162,48 +4162,48 @@ postcss-minify-selectors@^4.0.2:
   dependencies:
     alphanum-sort "^1.0.0"
     has "^1.0.0"
-    postcss "^7.0.0"
+    postcss "^8.2.13"
     postcss-selector-parser "^3.0.0"
 
 postcss-modules-extract-imports@^1.2.0:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/postcss-modules-extract-imports/-/postcss-modules-extract-imports-1.2.1.tgz#dc87e34148ec7eab5f791f7cd5849833375b741a"
   dependencies:
-    postcss "^6.0.1"
+    postcss "^8.2.13"
 
 postcss-modules-local-by-default@^1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/postcss-modules-local-by-default/-/postcss-modules-local-by-default-1.2.0.tgz#f7d80c398c5a393fa7964466bd19500a7d61c069"
   dependencies:
     css-selector-tokenizer "^0.7.0"
-    postcss "^6.0.1"
+    postcss "^8.2.13"
 
 postcss-modules-scope@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/postcss-modules-scope/-/postcss-modules-scope-1.1.0.tgz#d6ea64994c79f97b62a72b426fbe6056a194bb90"
   dependencies:
     css-selector-tokenizer "^0.7.0"
-    postcss "^6.0.1"
+    postcss "^8.2.13"
 
 postcss-modules-values@^1.3.0:
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/postcss-modules-values/-/postcss-modules-values-1.3.0.tgz#ecffa9d7e192518389f42ad0e83f72aec456ea20"
   dependencies:
     icss-replace-symbols "^1.1.0"
-    postcss "^6.0.1"
+    postcss "^8.2.13"
 
 postcss-normalize-charset@^4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/postcss-normalize-charset/-/postcss-normalize-charset-4.0.1.tgz#8b35add3aee83a136b0471e0d59be58a50285dd4"
   dependencies:
-    postcss "^7.0.0"
+    postcss "^8.2.13"
 
 postcss-normalize-display-values@^4.0.2:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/postcss-normalize-display-values/-/postcss-normalize-display-values-4.0.2.tgz#0dbe04a4ce9063d4667ed2be476bb830c825935a"
   dependencies:
     cssnano-util-get-match "^4.0.0"
-    postcss "^7.0.0"
+    postcss "^8.2.13"
     postcss-value-parser "^3.0.0"
 
 postcss-normalize-positions@^4.0.2:
@@ -4212,7 +4212,7 @@ postcss-normalize-positions@^4.0.2:
   dependencies:
     cssnano-util-get-arguments "^4.0.0"
     has "^1.0.0"
-    postcss "^7.0.0"
+    postcss "^8.2.13"
     postcss-value-parser "^3.0.0"
 
 postcss-normalize-repeat-style@^4.0.2:
@@ -4221,7 +4221,7 @@ postcss-normalize-repeat-style@^4.0.2:
   dependencies:
     cssnano-util-get-arguments "^4.0.0"
     cssnano-util-get-match "^4.0.0"
-    postcss "^7.0.0"
+    postcss "^8.2.13"
     postcss-value-parser "^3.0.0"
 
 postcss-normalize-string@^4.0.2:
@@ -4229,7 +4229,7 @@ postcss-normalize-string@^4.0.2:
   resolved "https://registry.yarnpkg.com/postcss-normalize-string/-/postcss-normalize-string-4.0.2.tgz#cd44c40ab07a0c7a36dc5e99aace1eca4ec2690c"
   dependencies:
     has "^1.0.0"
-    postcss "^7.0.0"
+    postcss "^8.2.13"
     postcss-value-parser "^3.0.0"
 
 postcss-normalize-timing-functions@^4.0.2:
@@ -4237,7 +4237,7 @@ postcss-normalize-timing-functions@^4.0.2:
   resolved "https://registry.yarnpkg.com/postcss-normalize-timing-functions/-/postcss-normalize-timing-functions-4.0.2.tgz#8e009ca2a3949cdaf8ad23e6b6ab99cb5e7d28d9"
   dependencies:
     cssnano-util-get-match "^4.0.0"
-    postcss "^7.0.0"
+    postcss "^8.2.13"
     postcss-value-parser "^3.0.0"
 
 postcss-normalize-unicode@^4.0.1:
@@ -4245,7 +4245,7 @@ postcss-normalize-unicode@^4.0.1:
   resolved "https://registry.yarnpkg.com/postcss-normalize-unicode/-/postcss-normalize-unicode-4.0.1.tgz#841bd48fdcf3019ad4baa7493a3d363b52ae1cfb"
   dependencies:
     browserslist "^4.0.0"
-    postcss "^7.0.0"
+    postcss "^8.2.13"
     postcss-value-parser "^3.0.0"
 
 postcss-normalize-url@^4.0.1:
@@ -4254,14 +4254,14 @@ postcss-normalize-url@^4.0.1:
   dependencies:
     is-absolute-url "^2.0.0"
     normalize-url "^3.0.0"
-    postcss "^7.0.0"
+    postcss "^8.2.13"
     postcss-value-parser "^3.0.0"
 
 postcss-normalize-whitespace@^4.0.2:
   version "4.0.2"
   resolved "https://registry.yarnpkg.com/postcss-normalize-whitespace/-/postcss-normalize-whitespace-4.0.2.tgz#bf1d4070fe4fcea87d1348e825d8cc0c5faa7d82"
   dependencies:
-    postcss "^7.0.0"
+    postcss "^8.2.13"
     postcss-value-parser "^3.0.0"
 
 postcss-ordered-values@^4.1.2:
@@ -4269,7 +4269,7 @@ postcss-ordered-values@^4.1.2:
   resolved "https://registry.yarnpkg.com/postcss-ordered-values/-/postcss-ordered-values-4.1.2.tgz#0cf75c820ec7d5c4d280189559e0b571ebac0eee"
   dependencies:
     cssnano-util-get-arguments "^4.0.0"
-    postcss "^7.0.0"
+    postcss "^8.2.13"
     postcss-value-parser "^3.0.0"
 
 postcss-reduce-initial@^4.0.3:
@@ -4279,7 +4279,7 @@ postcss-reduce-initial@^4.0.3:
     browserslist "^4.0.0"
     caniuse-api "^3.0.0"
     has "^1.0.0"
-    postcss "^7.0.0"
+    postcss "^8.2.13"
 
 postcss-reduce-transforms@^4.0.2:
   version "4.0.2"
@@ -4287,7 +4287,7 @@ postcss-reduce-transforms@^4.0.2:
   dependencies:
     cssnano-util-get-match "^4.0.0"
     has "^1.0.0"
-    postcss "^7.0.0"
+    postcss "^8.2.13"
     postcss-value-parser "^3.0.0"
 
 postcss-selector-parser@^3.0.0:
@@ -4311,7 +4311,7 @@ postcss-svgo@^4.0.2:
   resolved "https://registry.yarnpkg.com/postcss-svgo/-/postcss-svgo-4.0.2.tgz#17b997bc711b333bab143aaed3b8d3d6e3d38258"
   dependencies:
     is-svg "^3.0.0"
-    postcss "^7.0.0"
+    postcss "^8.2.13"
     postcss-value-parser "^3.0.0"
     svgo "^1.0.0"
 
@@ -4320,24 +4320,24 @@ postcss-unique-selectors@^4.0.1:
   resolved "https://registry.yarnpkg.com/postcss-unique-selectors/-/postcss-unique-selectors-4.0.1.tgz#9446911f3289bfd64c6d680f073c03b1f9ee4bac"
   dependencies:
     alphanum-sort "^1.0.0"
-    postcss "^7.0.0"
+    postcss "^8.2.13"
     uniqs "^2.0.0"
 
 postcss-value-parser@^3.0.0, postcss-value-parser@^3.3.0, postcss-value-parser@^3.3.1:
   version "3.3.1"
   resolved "https://registry.yarnpkg.com/postcss-value-parser/-/postcss-value-parser-3.3.1.tgz#9ff822547e2893213cf1c30efa51ac5fd1ba8281"
 
-postcss@^6.0.1, postcss@^6.0.23:
+postcss@^8.2.13, postcss@^8.2.13:
   version "6.0.23"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-6.0.23.tgz#61c82cc328ac60e677645f979054eb98bc0e3324"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.2.13.tgz#61c82cc328ac60e677645f979054eb98bc0e3324"
   dependencies:
     chalk "^2.4.1"
     source-map "^0.6.1"
     supports-color "^5.4.0"
 
-postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.14, postcss@^7.0.16, postcss@^7.0.5:
+postcss@^8.2.13, postcss@^8.2.13, postcss@^8.2.13, postcss@^8.2.13, postcss@^8.2.13:
   version "7.0.17"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.17.tgz#4da1bdff5322d4a0acaab4d87f3e782436bad31f"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.2.13.tgz#4da1bdff5322d4a0acaab4d87f3e782436bad31f"
   dependencies:
     chalk "^2.4.2"
     source-map "^0.6.1"
@@ -5125,7 +5125,7 @@ stylehacks@^4.0.0:
   resolved "https://registry.yarnpkg.com/stylehacks/-/stylehacks-4.0.3.tgz#6718fcaf4d1e07d8a1318690881e8d96726a71d5"
   dependencies:
     browserslist "^4.0.0"
-    postcss "^7.0.0"
+    postcss "^8.2.13"
     postcss-selector-parser "^3.0.0"
 
 supports-color@^2.0.0:
